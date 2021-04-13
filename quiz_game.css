@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+}
+#login_1{
+    background-color: aqua;
+    margin-bottom: 10px;
+}
+#login_2{
+    background-color: aqua;
+    margin-top: 10px;
+}
